@@ -4,4 +4,6 @@ h1{
 
 body{
     background-color: dimgray;
+    text-align: center; /* Középre igazítás */
+    font-size: 25px; /* Példa méret: 20 pixel */
 }
